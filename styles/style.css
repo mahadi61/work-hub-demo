@@ -13,3 +13,7 @@ h1{
   color: chartreuse;
   background-color: black;
 }
+body {
+  background-color: #121212;
+  font-family: "Poppins", sans-serif;
+}
